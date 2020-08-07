@@ -47,9 +47,8 @@ body,input,button,textarea{
     max-width: 700px;
 }
 
-@media (min-width: 700px)/* paso a largura passar de 700px */{
+@media (min-width: 700px)/* caso a largura passar de 700px */{
     :root{
         font-size: 62.5;
     }
 }
-    
